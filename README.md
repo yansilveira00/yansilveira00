@@ -13,3 +13,11 @@ I am currently studying Back-End, Front-End and TI Support.
 <p align="left">
   💼 Tools: IntelliJ and Github.
 </p>
+
+##
+
+<div>
+  
+![snake svg](https://github.com/yansilveira00/yansilveira00/blob/output/github-contribution-grid-snake.svg)
+
+</div>
